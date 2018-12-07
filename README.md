@@ -1,5 +1,5 @@
-# ARIFISTIFIK
-BOT PROTECT PY3 ANTI JS V2 LINE🐦FIXS UPDATE 19 AGUSTUS 2018
+# Dzulkifli-DK
+BOT PROTECT PY3 ANTI JS DK-BOT LINE🐦FIXS UPDATE:JUM'AT 7 DESEMBER 2018
 ------
 GET TOKEN :
 ------
@@ -29,7 +29,7 @@ C9 SERVER/ VPS :
 - `sudo pip3 install youtube_dl`
 - `git clone https://github.com/arifistifik/ajs2`
 - `cd ajs2`
-- `python ajs.py`
+- `python Kifli12.py`
 
 INSTALL Di TERMUX :
 - `pkg update`
@@ -48,7 +48,7 @@ INSTALL Di TERMUX :
 - `pip3 install wikipedia`
 - `pip3 install youtube_dl`
 - `pip3 install tweepy`
-- `git clone https://github.com/arifistifik/ajs2`
+- `git clone https://github.com/Dzulkifli1/DKBOT-ANTIJS.git
 - `cd ajs2`
 - `python3 ajs.py`
 
