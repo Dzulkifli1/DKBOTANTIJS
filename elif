@@ -1,0 +1,50 @@
+                          if 
+wait["selfbot"] == True:
+                            if 
+msg._from in admin:
+                                
+try:
+                                    
+anggota = [Amid,Bmid,Cmid,Dmid]
+                                    
+cl.inviteIntoGroup(msg.to, 
+anggota)
+                                    
+ki.acceptGroupInvitation(msg.to)
+                                    
+kk.acceptGroupInvitation(msg.to)
+                                    
+kc.acceptGroupInvitation(msg.to)
+                                    
+kb.acceptGroupInvitation(msg.to)
+                                 
+# 
+ke.acceptGroupInvitation(msg.to)
+                                    
+cl.sendMessage(msg.to,"Grup"+str(ginfo.name)+"Aman 
+Dari JS")
+                                
+except:
+                                    
+pass
+                                    
+                        elif cmd 
+== "stay":
+                          if 
+wait["selfbot"] == True:
+                            if 
+msg._from in admin:
+                                
+try:
+                                    
+ginfo = cl.getGroup(msg.to)
+                                    
+cl.inviteIntoGroup(msg.to, 
+[Zmid])
+                                    
+cl.sendMessage(msg.to,"Grup"+str(ginfo.name)+"Stay 
+di luar bos")
+                                
+except:
+                                    
+pass
