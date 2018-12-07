@@ -56,7 +56,7 @@ Cara Menjalankan Bot Kembali :
 ------
 Di C9 :
 - `cd DKBOT-ANTIJS
-- `python3 ajs.py`
+- `python3 kifli5.py
 
 Di Termux :
 - `cd DKBOT-ANTIJS`
