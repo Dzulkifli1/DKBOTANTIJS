@@ -27,7 +27,7 @@ C9 SERVER/ VPS :
 - `sudo pip3 install wikipedia`
 - `sudo pip3 install tweepy`
 - `sudo pip3 install youtube_dl`
-- `git clone https://github.com/arifistifik/ajs2`
+- `git clone  https://github.com/Dzulkifli1/DKBOT-ANTIJS.git
 - `cd ajs2`
 - `python Kifli12.py`
 
