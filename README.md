@@ -63,9 +63,9 @@ Di Termux :
 - `python3 ajs.py`
 
 
-EDITOR BY ARIFISTIFIK
+EDITOR BY DZULKIFLI
 ------
-- `Add My ID LINE : ngak punya line😂`
+- `Add My ID LINE :http://line.me/ti/p/~reza.p.i.p  😂`
 - `Sambil nonton youtue biar cepet paham yang blom tau. dulu aku juga gitu 😊. Youtube me : ARIFISTIFIK`
 #cuma saran bukan menggurui 😅
 #aku juga masih pekok kuadrat😊
