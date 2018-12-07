@@ -55,18 +55,17 @@ INSTALL Di TERMUX :
 Cara Menjalankan Bot Kembali :
 ------
 Di C9 :
-- `cd ajs2`
+- `cd DKBOT-ANTIJS
 - `python3 ajs.py`
 
 Di Termux :
-- `cd ajs2`
-- `python3 ajs.py`
+- `cd DKBOT-ANTIJS`
+- `python3 kifli12.py`
 
 
 EDITOR BY DZULKIFLI
 ------
-- `Add My ID LINE :http://line.me/ti/p/~reza.p.i.p  😂`
-- `Sambil nonton youtue biar cepet paham yang blom tau. dulu aku juga gitu 😊. Youtube me : ARIFISTIFIK`
+- `Add My ID LINE :http://line.me/ti/p/~reza.p.i.p pakai titik ya 😂`
 #cuma saran bukan menggurui 😅
 #aku juga masih pekok kuadrat😊
 
