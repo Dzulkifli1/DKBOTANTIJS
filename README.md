@@ -50,7 +50,7 @@ INSTALL Di TERMUX :
 - `pip3 install tweepy`
 - `git clone https://github.com/Dzulkifli1/DKBOT-ANTIJS.git
 - `cd ajs2`
-- `python3 ajs.py`
+- `python3 kifli5.py`
 
 Cara Menjalankan Bot Kembali :
 ------
